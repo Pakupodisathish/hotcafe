@@ -3,7 +3,7 @@
 🔥 **Your Perfect Cup, Tailored to Your Taste!**
 
 ## **Live Demo**
-🚀 Your site is live at: HotCafe https://pakupodisathish.github.io/hotcafe 
+🚀 Your site is live at: [HotCafe](https://pakupodisathish.github.io/hotcafe/)
 
 
 This will create a clickable link in your README file, allowing users to quickly visit your site.
