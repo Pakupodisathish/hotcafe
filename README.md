@@ -1,6 +1,14 @@
 ```
 # **HotCafe ☕ - A Responsive Static Website**  
-🔥 **Your Perfect Cup, Tailored to Your Taste!**  
+🔥 **Your Perfect Cup, Tailored to Your Taste!**
+
+## **Live Demo**
+🚀 Your site is live at: [HotCafe](https://pakupodisathish.github.io/hotcafe/)  
+
+
+This will create a clickable link in your README file, allowing users to quickly visit your site.
+Would you like me to integrate this into your full README file? 🚀😃
+Let me know if you need further refinements! ✨
 
 ## **Overview**  
 HotCafe is a fully responsive **static website** built using **HTML5**, **CSS3**, and **Media Queries**. Designed to work seamlessly across all devices—smartphones, tablets, laptops, and large screens—it presents an elegant and inviting layout for coffee lovers everywhere!  
